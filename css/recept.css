@@ -1,0 +1,19 @@
+article{
+    margin-top: 30px;
+}
+
+img{
+    border-radius: 30px;
+}
+
+.bevezeto h1{
+    margin-bottom: 2rem;
+}
+
+.bevezeto table{
+    margin-top: 2.3rem;
+}
+
+.bevezeto p{
+    text-align: justify;
+}
