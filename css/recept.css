@@ -3,8 +3,11 @@ article{
 }
 
 img{
-    border-radius: 30px;
-    box-shadow: 0px 0px 30px 0px rgb(0 0 0 / 20%);
+    margin: auto;
+    box-shadow: 30px 30px 50px 0px rgb(110, 110, 110);
+    border-radius: 10%;
+    width: 400px;
+    height: 400px;
 }
 
 .bevezeto h1{
@@ -17,4 +20,7 @@ img{
 
 .bevezeto p{
     text-align: justify;
+}
+body{
+    background-color: #f3f3f3;
 }
