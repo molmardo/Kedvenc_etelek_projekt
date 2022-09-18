@@ -28,3 +28,23 @@ h1{
     color: #fff;
 }
 
+footer{
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    padding: 15px;
+}
+
+footer ul{
+    list-style-type: none;
+}
+
+footer a{
+    text-decoration: none;
+    color: #fff;
+    transition: 0.2s;
+}
+
+footer a:hover{
+    color: rgb(142, 142, 142);
+}
