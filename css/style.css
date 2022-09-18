@@ -3,3 +3,10 @@
     margin-top: 30px;
     background-color: antiquewhite;
 }
+
+.carousel-item{
+    width: 100%;
+    height:800px;
+    object-fit: cover;
+    object-position: 39% -5%;
+}
